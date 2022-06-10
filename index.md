@@ -15,7 +15,11 @@
     </head>
     <body>
         
-        <h1><img src="Elise.Wilkinson_files/bluebanner.png" width="658" height="351" alt=""/><img src="Elise.Wilkinson_files/bluebannersmall.png" width="658" height="263" alt=""/><img src="Elise.Wilkinson_files/bluebanner2.png" width="526" height="281" alt=""/></h1>
+        <h1>![bluebanner](https://user-images.githubusercontent.com/106769230/172977458-edd7b5eb-802a-4134-a069-dfb18fbf2eac.png)
+![bluebannersmall](https://user-images.githubusercontent.com/106769230/172977459-d09aa1b6-b064-44dd-baef-d701ba726308.png)
+![bluebanner2](https://user-images.githubusercontent.com/106769230/172977460-b8d7ff49-0a38-4703-bc2d-afebd5b2395c.png)
+![Untitled](https://user-images.githubusercontent.com/106769230/172977464-ad02d0de-6d14-40cb-84a4-c0e9db673f04.gif)
+<img src="Elise.Wilkinson_files/bluebanner.png" width="658" height="351" alt=""/><img src="Elise.Wilkinson_files/bluebannersmall.png" width="658" height="263" alt=""/><img src="Elise.Wilkinson_files/bluebanner2.png" width="526" height="281" alt=""/></h1>
         <h1>&nbsp;</h1>
         <h1>GETTING THERE </h1>
         <h2>read on. </h2>
